@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CourtCounter.iml" filepath="$PROJECT_DIR$/CourtCounter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CounterBasketball.iml" filepath="$PROJECT_DIR$/CounterBasketball.iml" />
+      <module fileurl="file://C:\Users\User\Dropbox\andrProjekt\CounterBasketball\CourtCounter.iml" filepath="C:\Users\User\Dropbox\andrProjekt\CounterBasketball\CourtCounter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\User\Dropbox\andrProjekt\CounterBasketball\app\app.iml" filepath="C:\Users\User\Dropbox\andrProjekt\CounterBasketball\app\app.iml" />
     </modules>
   </component>
 </project>
